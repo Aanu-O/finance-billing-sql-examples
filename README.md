@@ -1,27 +1,23 @@
-# Finance & Billing SQL Examples
-
-This repository contains **sample SQL scripts** for typical finance and billing operations.
-The scripts are based on **mock data** and demonstrate skills relevant to roles involving SQL reporting,
-finance operations, and application support.
-
-## Contents
-
-1. **mock_billing_data.csv** - Sample dataset for demonstration purposes only.
-2. **invoice_summary.sql** - Generates a summary of paid vs unpaid invoices.
-3. **overdue_invoices.sql** - Finds invoices past their due date and still unpaid.
-4. **customer_invoice_history.sql** - Retrieves full invoice history for a specific customer.
-
-## How to Use
-
-- Import `mock_billing_data.csv` into your SQL database.
-- Run the SQL scripts in your preferred database query tool.
-- Adapt WHERE clauses or filters as needed for your real environment.
-
-## Purpose
-
-These scripts are intended to showcase:
-- SQL reporting & aggregation
-- Finance/billing data analysis
-- Query optimization and practical database use cases
-
--- Created by Aanuoluwa Olaniran
+# Finance & Billing SQL Portfolio
+ 
+This repository showcases **SQL scripts** and **mock datasets** designed for finance operations, billing reconciliation, and data analysis roles. These examples demonstrate practical skills in financial data extraction, reporting, and error resolution—key for supporting billing systems and improving operational accuracy.
+ 
+## Repository Contents
+ 
+- `mock_billing_data.csv`: Sample billing dataset with invoices, customers, and payment status.  
+- `invoice_summary.sql`: SQL query to summarize paid vs. unpaid invoices, aiding revenue tracking.  
+- `overdue_invoices.sql`: Identifies overdue invoices, essential for billing follow-up and cash flow management.  
+- `customer_invoice_history.sql`: Retrieves detailed invoice history by customer to support account review and dispute resolution.
+ 
+## Skills Demonstrated
+ 
+- Finance Operations Support  
+- Billing Reconciliation and Reporting  
+- SQL Data Analysis and Query Optimization  
+- Data-Driven Decision Support  
+- Practical Application Support for Financial Systems
+ 
+---
+ 
+Created by Aanuoluwa Olaniran  
+[LinkedIn](https://www.linkedin.com/in/olaniran-aanuoluwa)
