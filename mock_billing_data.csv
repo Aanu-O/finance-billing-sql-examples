@@ -1,0 +1,6 @@
+InvoiceID,CustomerName,InvoiceDate,DueDate,Amount,Status
+101,Alpha Ltd,2025-07-01,2025-07-15,1200.5,Paid
+102,Beta Inc,2025-07-03,2025-07-17,850.0,Unpaid
+103,Gamma LLC,2025-07-04,2025-07-19,1340.75,Paid
+104,Delta Co,2025-07-05,2025-07-20,560.25,Unpaid
+105,Epsilon GmbH,2025-07-06,2025-07-21,975.0,Paid
